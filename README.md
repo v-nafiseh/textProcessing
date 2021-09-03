@@ -1,6 +1,6 @@
 ### text processing on imdb top 250 movies
 
-#### quik overview
+#### quick overview
 - extracting keywords from storylines
 - maintaining a weighted graph between movies in which the movies' names are nodes & links are common keywords
 - saving graph details as csv file
@@ -16,7 +16,7 @@
 
 ### scraping digikala speciall offer products
 
-#### quik overview
+#### quick overview
 - crawling special offers page
 - extracting name, price and sale's amount of product
 - showing the results in a web page using django framework
