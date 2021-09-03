@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1></h1>
+    <p>
+        {% for p in products %}
+        <div class="container mt-3 border rounded text-right">
+
+            <div class="row">
+                <div class="col-10 border-left">
+                {{ p.title}}</br>
+                {{ p.price}}</br>
+                {{ p.sale }}</br>
+                </br>
+                </div>
+            </div>  
+
+        </div>      
+        {%endfor%}    
+    </p>
+     
+</body>
+</html>
