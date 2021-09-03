@@ -12,5 +12,8 @@
 - producing the weighted graph
 - ploting the graph with networkx library
 
+![Alt text](https://github.com/v-nafiseh/textProcessing/blob/main/Figure_1.png?raw=true "Title")
+
+
 
 
