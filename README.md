@@ -8,7 +8,7 @@
 #### details:
 - scraping the storyline with beautiful soup library and regex
 - using textRank algorithm for extracting the keywords
---- tokenizing
+##### tokenizing
 --- deleting stopwords
 --- lemmatizing
 - producing the weighted graph
