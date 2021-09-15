@@ -1,3 +1,4 @@
+teamwork with ![Shokoofa Ghods](https://github.com/shokoofa-ghods)
 ### text processing on imdb top 250 movies
 
 #### quick overview
